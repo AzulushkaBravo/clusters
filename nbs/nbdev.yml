@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "clusters"
+  site-url: "https://AzulushkaBravo.github.io/clusters"
+  description: "Repostorio prueba 2"
+  repo-branch: main
+  repo-url: "https://github.com/AzulushkaBravo/clusters"
